@@ -63,7 +63,7 @@ B .
 
 ※ 아래는 BNE, BEQ 등 해석할 때 필요한 조건
 
-![image-20210804223212937](Assets/Image001_Branch_Condition.png)
+[![Branch_Conditions](Assets/Image001_Branch_Condition.png)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=mayooyos&logNo=220830008603)
 
 
 
